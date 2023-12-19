@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/86970816/167998296-4756c025-f26f-4bd9-ae96-0ae0d46e9312.png)
+![image](https://github.com/PregnaGrowth/.github/blob/main/profile/Screenshot%20(57).png)
 
 
 # bangkit-capstone-project
