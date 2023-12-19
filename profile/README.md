@@ -19,7 +19,7 @@ PregnaGrowth is an end-to-end pregnancy application.
 |         Rildan Wardhana          | M626BSY0028 | Mobile Development |          Android Mobile Developer          |             [LinkedIn](https://www.linkedin.com/in/setyofajar/) or [Github](https://github.com/setyofp)             |
 |      Marchell Mordekhai Halim     | A231BSY2209 | Mobile Development |          Android Mobile Developer          |    [LinkedIn](https://www.linkedin.com/in/widya-puji-saputro-bb8a74129/) or [Github](https://github.com/Widi-ps)    |
 |     Auliya Ayu Lestari Hamsir      | C611BSX4085 |   Cloud Computing  |               DevOps Engineer              |            [LinkedIn](https://www.linkedin.com/in/putusintia/) or [Github](https://github.com/sintiasnn)            |
-|         Moh. Nur Hakim              | C6565bsy3838 |   Cloud Computing  |          DevOps Engineer, Designer         | [LinkedIn](https://www.linkedin.com/in/azzam-ubaidillah-311b5319a/) or [Github](https://github.com/Azzamubaidillah) |
+|         Moh. Nur Hakim              | C6565bsy3838 |   Cloud Computing  |          DevOps Engineer, Designer         | [LinkedIn](https://www.linkedin.com/in/azzam-ubaidillah-311b5319a/) or [Github](https://github.com/kimearwud22) |
 |         Adhiemas Wisanggeni         | C010BSY3394 |   Cloud Computing  |          DevOps Engineer, Designer         | [LinkedIn](https://www.linkedin.com/in/azzam-ubaidillah-311b5319a/) or [Github](https://github.com/Azzamubaidillah) |
 
 # Repositories
