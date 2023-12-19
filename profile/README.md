@@ -27,9 +27,9 @@ PregnaGrowth is an end-to-end pregnancy application.
 
 |   Learning Paths   |                                Link                                |
 | :----------------: | :----------------------------------------------------------------: |
-| Mobile Development | [Github](https://github.com/travens-id/bangkit-mobile-development) |
-|  Machine Learning  |  [Github](https://github.com/travens-id/bangkit-machine-learning)  |
-|   Cloud Computing  |   [Github](https://github.com/travens-id/bangkit-destination-API)  |
+| Mobile Development | [Github](https://github.com/PregnaGrowth/bangkit-mobile-development) |
+|  Machine Learning  |  [Github](https://github.com/PregnaGrowth/Mechine-Learning)  |
+|   Cloud Computing  |   [Github](https://github.com/PregnaGrowth/Cloud-Computing)  |
 
 # Service Architecture
 ![Service_Architecture](https://github.com/PregnaGrowth/.github/blob/main/profile/arsitektur.png)
