@@ -1,15 +1,15 @@
-# Project Schadule
+# Project Schedule
 ![image](https://github.com/PregnaGrowth/.github/blob/main/profile/Screenshot%20(57).png?raw=True)
 ![image](https://github.com/PregnaGrowth/.github/blob/main/profile/Screenshot%20(58).png?raw=True)
 
 
 # bangkit-capstone-project
-The documentation of Pregna' application in Bangkit Capstone Project 2023
+The documentation of Pregna's application in Bangkit Capstone Project 2023
 
 ![Pregna](https://github.com/algonacci/Free-CDN/blob/main/Travens-CDN/Banner_Travens.png?raw=True)
 
 # About
-PregnaGrowth is an end-to-end pregna application .
+PregnaGrowth is an end-to-end pregnancy application.
 
 # The Team
 
@@ -32,7 +32,7 @@ PregnaGrowth is an end-to-end pregna application .
 |   Cloud Computing  |   [Github](https://github.com/travens-id/bangkit-destination-API)  |
 
 # Service Architecture
-![Service_Architecture](https://user-images.githubusercontent.com/86970816/172196957-b66a2424-bf1a-4c90-aaf2-842122eba1fa.png)
+![Service_Architecture](https://github.com/PregnaGrowth/.github/blob/main/profile/arsitektur.png)
 
 # License
 Distributed under the MIT License. See `LICENSE` for more information.
