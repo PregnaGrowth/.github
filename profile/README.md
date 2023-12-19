@@ -6,7 +6,7 @@
 # bangkit-capstone-project
 The documentation of Pregna's application in Bangkit Capstone Project 2023
 
-![Pregna](https://github.com/algonacci/Free-CDN/blob/main/Travens-CDN/Banner_Travens.png?raw=True)
+![Pregna](https://github.com/PregnaGrowth/.github/blob/main/profile/smartmockups_lqbo3j7s.jpg?raw=True)
 
 # About
 PregnaGrowth is an end-to-end pregnancy application.
@@ -35,6 +35,5 @@ PregnaGrowth is an end-to-end pregnancy application.
 ![Service_Architecture](https://github.com/PregnaGrowth/.github/blob/main/profile/arsitektur.png)
 
 # License
-Distributed under the MIT License. See `LICENSE` for more information.
 
-<p align="right"> Keep the Bangkit Spirit and Stay Safe! <br> C22-PS007 Teams </p>
+<p align="right"> Keep the Bangkit Spirit and Stay Safe! <br> Pregna Teams </p>
