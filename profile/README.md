@@ -1,13 +1,15 @@
-![image](https://github.com/PregnaGrowth/.github/blob/main/profile/Screenshot%20(57).png)
+# Project Schadule
+![image](https://github.com/PregnaGrowth/.github/blob/main/profile/Screenshot%20(57).png?raw=True)
+![image](https://github.com/PregnaGrowth/.github/blob/main/profile/Screenshot%20(58).png?raw=True)
 
 
 # bangkit-capstone-project
-The documentation of Travens' application in Bangkit Capstone Project 2022
+The documentation of Pregna' application in Bangkit Capstone Project 2023
 
-![Travens](https://github.com/algonacci/Free-CDN/blob/main/Travens-CDN/Banner_Travens.png?raw=True)
+![Pregna](https://github.com/algonacci/Free-CDN/blob/main/Travens-CDN/Banner_Travens.png?raw=True)
 
 # About
-Travens is an end-to-end tourism super app that provides all of your tourism needs for the maximum experience while vacation.
+PregnaGrowth is an end-to-end pregna application .
 
 # The Team
 
