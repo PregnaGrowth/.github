@@ -1,12 +1,11 @@
-# Project Schedule
-![image](https://github.com/PregnaGrowth/.github/blob/main/profile/Screenshot%20(57).png?raw=True)
-![image](https://github.com/PregnaGrowth/.github/blob/main/profile/Screenshot%20(58).png?raw=True)
-
-
 # bangkit-capstone-project
 The documentation of Pregna's application in Bangkit Capstone Project 2023
 
 ![Pregna](https://github.com/PregnaGrowth/.github/blob/main/profile/smartmockups_lqbo3j7s.jpg?raw=True)
+
+# Project Schedule
+![image](https://github.com/PregnaGrowth/.github/blob/main/profile/Screenshot%20(57).png?raw=True)
+![image](https://github.com/PregnaGrowth/.github/blob/main/profile/Screenshot%20(58).png?raw=True)
 
 # About
 PregnaGrowth is an end-to-end pregnancy application.
