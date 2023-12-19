@@ -13,12 +13,13 @@ Travens is an end-to-end tourism super app that provides all of your tourism nee
 
 |            Member           | Student ID |        Path        |                    Role                    |                                                       Contacts                                                      |
 | :-------------------------: | :--------: | :----------------: | :----------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
-|        Eric Julianto        | M2195F1854 |  Machine Learning  | Project Manager, Machine Learning Engineer |           [LinkedIn](https://www.linkedin.com/in/ericjulianto/) or [Github](https://github.com/algonacci)           |
-|      Aghni Syifa Ahmari     | M2224W2059 |  Machine Learning  |          Machine Learning Engineer         |   [LinkedIn](https://www.linkedin.com/in/aghni-syifa-ahmari-a613a6206/) or [Github](https://github.com/aghnisyifa)  |
-|     Setyo Fajar Pratomo     | A7006H0543 | Mobile Development |          Android Mobile Developer          |             [LinkedIn](https://www.linkedin.com/in/setyofajar/) or [Github](https://github.com/setyofp)             |
-|      Widya Puji Saputro     | A7013G1358 | Mobile Development |          Android Mobile Developer          |    [LinkedIn](https://www.linkedin.com/in/widya-puji-saputro-bb8a74129/) or [Github](https://github.com/Widi-ps)    |
-|     Ni Putu Sintia Wati     | C2014J1378 |   Cloud Computing  |               DevOps Engineer              |            [LinkedIn](https://www.linkedin.com/in/putusintia/) or [Github](https://github.com/sintiasnn)            |
-| Nur Kholis Azzam Ubaidillah | C2224W2085 |   Cloud Computing  |          DevOps Engineer, Designer         | [LinkedIn](https://www.linkedin.com/in/azzam-ubaidillah-311b5319a/) or [Github](https://github.com/Azzamubaidillah) |
+|        Eldwin Adhichandra        | M231BSY1037 |  Machine Learning  | Project Manager, Machine Learning Engineer |           [LinkedIn](https://www.linkedin.com/in/ericjulianto/) or [Github](https://github.com/algonacci)           |
+|         Muthia Salsabila         |  M200BSX1164 |  Machine Learning  |          Machine Learning Engineer         |   [LinkedIn](https://www.linkedin.com/in/aghni-syifa-ahmari-a613a6206/) or [Github](https://github.com/aghnisyifa)  |
+|         Rildan Wardhana          | M626BSY0028 | Mobile Development |          Android Mobile Developer          |             [LinkedIn](https://www.linkedin.com/in/setyofajar/) or [Github](https://github.com/setyofp)             |
+|      Marchell Mordekhai Halim     | A231BSY2209 | Mobile Development |          Android Mobile Developer          |    [LinkedIn](https://www.linkedin.com/in/widya-puji-saputro-bb8a74129/) or [Github](https://github.com/Widi-ps)    |
+|     Auliya Ayu Lestari Hamsir      | C611BSX4085 |   Cloud Computing  |               DevOps Engineer              |            [LinkedIn](https://www.linkedin.com/in/putusintia/) or [Github](https://github.com/sintiasnn)            |
+|         Moh. Nur Hakim              | C6565bsy3838 |   Cloud Computing  |          DevOps Engineer, Designer         | [LinkedIn](https://www.linkedin.com/in/azzam-ubaidillah-311b5319a/) or [Github](https://github.com/Azzamubaidillah) |
+|         Adhiemas Wisanggeni         | C010BSY3394 |   Cloud Computing  |          DevOps Engineer, Designer         | [LinkedIn](https://www.linkedin.com/in/azzam-ubaidillah-311b5319a/) or [Github](https://github.com/Azzamubaidillah) |
 
 # Repositories
 
