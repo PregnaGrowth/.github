@@ -31,7 +31,7 @@ PregnaGrowth is an end-to-end pregnancy application.
 |   Cloud Computing  |   [Github](https://github.com/PregnaGrowth/Cloud-Computing)  |
 
 # Service Architecture
-![Service_Architecture](https://github.com/PregnaGrowth/.github/blob/main/profile/arsitektur.png)
+![Service_Architecture](https://github.com/PregnaGrowth/.github/blob/main/profile/pregna.png)
 
 # License
 
